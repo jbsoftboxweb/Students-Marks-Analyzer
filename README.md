@@ -1,39 +1,65 @@
-# Students-Marks-Analyzer
+# 🎓 Students Marks Analyzer (SMA)
 
-## Description
-Our software is designed especially for class teachers to make calculating students' total marks and averages faster and easier than ever before. With its modern, user-friendly interface, teachers can quickly enter scores, view results instantly, and save valuable time. Whether you're managing a small class or a large group of students, this tool simplifies the entire process with just a few clicks. Its clean design and smooth performance make it a must-have for any teacher looking to stay organized and efficient.
+A smart, modern tool designed **especially for class teachers** to manage student marks with speed, clarity, and confidence.
 
-## Features
+---
 
-### Smart Marks Calculation and Sorting
-Quickly calculate each student's total and average marks, and automatically sort students from highest to lowest average — making it easy to see top performers at a glance.
+## ✨ Description
 
-### Easy Subject Customization
-Teachers can easily set up and customize subjects before entering student marks — making the software flexible and ready for any class setup in just a few clicks.
+**Students Marks Analyzer** simplifies the process of entering, calculating, and visualizing student scores. Whether you're handling a small classroom or a large batch of students, SMA makes the job faster, cleaner, and stress-free. With its modern UI, built-in bar graphs, Excel support, and auto-backups — it’s everything a teacher needs in one package.
 
-### Interactive Bar Graph for Student Performance
-Visualize each student's marks clearly with a dynamic Bar graph — simply click on a student's name to instantly see their performance across all subjects.
+---
 
-### Automatic Temporary Backup for Safety
-No more worries about losing data — the software automatically saves your progress in real time. If your PC shuts down or the software closes unexpectedly, all your unsaved work is safely restored when you reopen it.
+## 🚀 Key Features
 
-### Modern Interface with Easy Navigation
-Enjoy a stylish, easy-to-use interface designed for smooth workflow — with shortcut keys, organized tabs, and a smart workspace that makes managing student data faster and simpler.
+### 🔢 Smart Marks Calculation & Sorting
+- Instantly calculate each student’s total and average.
+- Automatically sort students from **top to bottom** based on average marks.
 
-### Save and Reopen Worksheets (Excel Format)
-Easily save all your student data into a simple Excel file after finishing your work. You can reopen saved worksheets anytime to continue editing, updating, or reviewing your class records.
+### 🧪 Easy Subject Customization
+- Set up and edit subjects before entering scores.
+- Flexible design for any classroom or subject group.
 
-## Screenshots
+### 📊 Interactive Bar Graphs
+- Click on any student’s name to see a live performance chart across subjects.
+- Get visual feedback to identify strengths and weaknesses instantly.
 
-![screenshot(sma_01)](https://github.com/user-attachments/assets/b30d100b-34a4-480b-acb2-725a888b3cfd)
-![screenshot(sma_02)](https://github.com/user-attachments/assets/f90b1c24-2493-4da9-b5f2-7601993912d2)
-![screenshot(sma_03)](https://github.com/user-attachments/assets/aaf97673-6b10-4ff2-b7c6-619357c40a6c)
-![screenshot(sma_04)](https://github.com/user-attachments/assets/fd980951-8597-46a1-be22-3636b149d5dc)
-![screenshot(sma_05)](https://github.com/user-attachments/assets/4fbd6751-0138-4783-a6aa-b3e674af393f)
-![screenshot(sma_06)](https://github.com/user-attachments/assets/cb5b733a-916a-41d1-95f1-cf629ce986a1)
+### 🛡️ Auto Backup & Crash Recovery
+- Real-time auto-save protects your work.
+- Seamless recovery after unexpected shutdowns or crashes.
 
-## Download
+### 🖥️ Modern UI with Smooth Navigation
+- Clean layout with **keyboard shortcuts**, organized tabs, and responsive design.
+- Built for efficiency and ease of use.
 
-<a href="#"><b><i><h1>Download</h1></i></b></a>
+### 📁 Save and Reopen as Excel
+- Save your work in `.xlsx` format.
+- Reopen and edit later — great for tracking student progress over time.
 
-## <i>&copy; 2025 JB Softbox. All rights reserved.  | <a href="https://jbsoftbox.free.nf/privacy-policy.html">Privacy Policy</a></i>
+---
+
+## 📸 Screenshots
+
+| Interface | Bar Graph | Subject Setup |
+|----------|-----------|---------------|
+| ![sma_01](https://github.com/user-attachments/assets/b30d100b-34a4-480b-acb2-725a888b3cfd) | ![sma_02](https://github.com/user-attachments/assets/f90b1c24-2493-4da9-b5f2-7601993912d2) | ![sma_03](https://github.com/user-attachments/assets/aaf97673-6b10-4ff2-b7c6-619357c40a6c) |
+| Backup Restore | Clean View | Excel Export |
+| ![sma_04](https://github.com/user-attachments/assets/fd980951-8597-46a1-be22-3636b149d5dc) | ![sma_05](https://github.com/user-attachments/assets/4fbd6751-0138-4783-a6aa-b3e674af393f) | ![sma_06](https://github.com/user-attachments/assets/cb5b733a-916a-41d1-95f1-cf629ce986a1) |
+
+---
+
+## ⬇️ Download
+
+👉 **[Click here to download the latest version](#)**  
+_(Coming soon: auto-updater feature!)_
+
+---
+
+## 📜 License
+
+© 2025 **JB Softbox**. All rights reserved.  
+This software is proprietary. Redistribution or modification is not permitted without permission.
+
+🔐 [Privacy Policy](https://jbsoftbox.free.nf/privacy-policy.html)
+
+---
