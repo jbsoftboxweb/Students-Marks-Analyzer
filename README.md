@@ -50,7 +50,7 @@ A smart, modern tool designed **especially for class teachers** to manage studen
 
 ## ⬇️ Download
 
-👉 **[Click here to download the latest version]([#](https://github.com/jbsoftboxweb/Students-Marks-Analyzer/releases/download/SMA/Students.Marks.Analyzer.Setup.exe))**  
+👉 **[Click here to download the latest version](https://github.com/jbsoftboxweb/Students-Marks-Analyzer/releases/download/SMA/Students.Marks.Analyzer.Setup.exe)**  
 
 ---
 
