@@ -2,6 +2,12 @@
 
 A smart, modern tool designed **especially for class teachers** to manage student marks with speed, clarity, and confidence.
 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/jbsoftboxweb/Students-Marks-Analyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/jbsoftboxweb/Students-Marks-Analyzer?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/jbsoftboxweb/Students-Marks-Analyzer?style=social)
+![Downloads](https://img.shields.io/github/downloads/jbsoftboxweb/Students-Marks-Analyzer/total?label=Total%20Downloads)
+
 ---
 
 ## ✨ Description
@@ -49,6 +55,8 @@ A smart, modern tool designed **especially for class teachers** to manage studen
 ---
 
 ## ⬇️ Download
+
+![Total Downloads](https://img.shields.io/github/downloads/jbsoftboxweb/Students-Marks-Analyzer/total?label=Total%20Downloads)
 
 👉 **[Click here to download the latest version](https://github.com/jbsoftboxweb/Students-Marks-Analyzer/releases/download/SMA/Students.Marks.Analyzer.Setup.exe)**  
 
